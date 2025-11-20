@@ -1,0 +1,2 @@
+# openinstall-ios-global-xcframework-pod
+openinstall's officially supported iOS XCFramework SDK for pod.
